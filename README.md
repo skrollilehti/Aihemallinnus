@@ -5,7 +5,7 @@ Aihemallinnuksessa aiheiden määrä määritetään käyttämällä tmtoolkit-k
 
 ## Tarvittava Python-versio
 
-Jupyter notebook tarvitsee toimiakseen Python-version 3.8-3.10. Jos tarvittava Python-version löytyy järjestelmästä,
+Jupyter notebook tarvitsee toimiakseen Python-version 3.8-3.10. Jos tarvittava Python-versio löytyy järjestelmästä,
 niin esimerkiksi Visual Studio Codessa valitaan ao. Python-versio ja tarvittaessa annettaan VSCoden asentaa kaikki tarpeellinen notebookin tarkastelemista varten.
 
 Jos järjestelmään on asennettuna Miniconda tai Anaconda Python-versiolla 3.8-3.10,
